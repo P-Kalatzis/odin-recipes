@@ -1,0 +1,58 @@
+/* style.css */
+
+.headone,
+.headtwo
+{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.headone
+{
+    background-color: pink;
+    color: red;
+}
+
+.headtwo
+{
+    background-color: aquamarine;
+    color: black;
+}
+
+#padhead
+{
+    color: rgb(0, 221, 255);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+.subhead
+{
+    background-color: rgb(227, 16, 227);
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+.subheadtwo
+{
+    background-color: rgb(227, 227, 106);
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+
+#tacohead
+{
+    color:red;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.subheadthree
+{
+    background-color: rgba(255, 218, 55, 0.825);
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
